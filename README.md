@@ -2,7 +2,7 @@ Enthusiastic detail-oriented and self-directed software engineer with a demonstr
 
 
 - [My Linkedin profile](https://www.linkedin.com/in/pouya-esmaeili-9124b839/)
-- [My Stack overflow profile](https://stackoverflow.com/users/13118327/pouya-esmaeili)
+- [My Stack Overflow profile](https://stackoverflow.com/users/13118327/pouya-esmaeili)
 
 Blog posts:
 
