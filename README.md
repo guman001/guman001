@@ -1,8 +1,7 @@
 I'm passionate about systems and robots. Currently working as software engineer.
 
 
-- [My Linkedin profile](https://www.linkedin.com/in/pouya-esmaeili-9124b839/)
-- [My Stack Overflow profile](https://stackoverflow.com/users/13118327/pouya-esmaeili)
+- [More about me](https://linktr.ee/pouyae)
 
 --- 
 
