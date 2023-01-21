@@ -12,9 +12,9 @@ I'm passionate about systems and robots. Currently working as software engineer.
 
 ---
 
-### TODO Projects:
+### ToDo Projects:
 
-- **gFuzz**: gFuzz is a Google Protobuf fuzzer. Reads protobuf file, compiles it and generates fuzz vevtors to test RPCs. 
+- **gFuzz**: Is a Google Protobuf fuzzer. Reads protobuf file, compiles it and generates fuzz vevtors to test RPCs automatically.
 
 ---
 
