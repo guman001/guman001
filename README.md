@@ -12,4 +12,10 @@ Blog posts:
 
 ---
 
+TODO projects:
+
+- **gFuzz***: gFuzz is a Google Protobuf fuzzer. Reads protobuf file, compiles it and generates fuzz vevtors to test RPCs. 
+
+---
+
 Gmail: pouya.esmaeili.g@gmail.com
