@@ -18,4 +18,10 @@ I'm passionate about systems and robots. Currently working as software engineer.
 
 ---
 
+### Gists:
+
+- [Python vulnerability scanning in Gitlab CI with OSV](https://gist.github.com/guman001/9eb24e0ce9588f4738b11c55b8b15138)
+
+---
+
 Gmail: pouya.esmaeili.g@gmail.com
